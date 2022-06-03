@@ -1,6 +1,6 @@
 # Arimoa
 
-* 노토산스<
+* 노토산스
 https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/NotoSansKR/notoSansKr.css
 
 * s-core dream 풀버전, 경량화버전
