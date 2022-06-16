@@ -1,12 +1,23 @@
 @charset "utf-8";
 /* -------- SUIT -------- */
-/* -- font-family:"SUIT";	400 / 500 / 600 / 700 / 900 -- */
+/* -- font-family:"SUIT";	300 / 400 / 500 / 600 / 700 / 900 -- */
+@font-face {
+	font-family:"SUIT";
+	font-style:normal;
+	font-weight:300;
+	src: url(./300/SUIT-Light.eot);
+	src: url(./300/SUIT-Light.eot?#iefix) format('embedded-opentype'),
+		url(./300/SUIT-Light.woff2) format("woff2"),
+		url(./300/SUIT-Light.woff) format("woff"),
+		url(./300/SUIT-Light.otf) format("opentype");
+	font-display:swap;
+}
 @font-face {
 	font-family:"SUIT";
 	font-style:normal;
 	font-weight:400;
-	src: url(./400/SUIT-Bold.eot);
-	src: url(./400/SUIT-Bold.eot?#iefix) format('embedded-opentype'),
+	src: url(./400/SUIT-Regular.eot);
+	src: url(./400/SUIT-Regular.eot?#iefix) format('embedded-opentype'),
 		url(./400/SUIT-Regular.woff2) format("woff2"),
 		url(./400/SUIT-Regular.woff) format("woff"),
 		url(./400/SUIT-Regular.otf) format("opentype");
@@ -16,8 +27,8 @@
 	font-family:"SUIT";
 	font-style:normal;
 	font-weight:500;
-	src: url(./500/SUIT-Bold.eot);
-	src: url(./500/SUIT-Bold.eot?#iefix) format('embedded-opentype'),
+	src: url(./500/SUIT-Medium.eot);
+	src: url(./500/SUIT-Medium.eot?#iefix) format('embedded-opentype'),
 		url(./500/SUIT-Medium.woff2) format("woff2"),
 		url(./500/SUIT-Medium.woff) format("woff"),
 		url(./500/SUIT-Medium.otf) format("opentype");
@@ -27,8 +38,8 @@
 	font-family:"SUIT";
 	font-style:normal;
 	font-weight:600;
-	src: url(./600/SUIT-Bold.eot);
-	src: url(./600/SUIT-Bold.eot?#iefix) format('embedded-opentype'),
+	src: url(./600/SUIT-SemiBold.eot);
+	src: url(./600/SUIT-SemiBold.eot?#iefix) format('embedded-opentype'),
 		url(./700/SUIT-SemiBold.woff2) format("woff2"),
 		url(./700/SUIT-SemiBold.woff) format("woff"),
 		url(./700/SUIT-SemiBold.otf) format("opentype");
