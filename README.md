@@ -9,3 +9,6 @@ https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/s_core_dream/SCD_Light/scdr
 
 * 지마켓 산스
 https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/gmarketSans.css
+
+* SUIT
+https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/SUIT/suit.css
