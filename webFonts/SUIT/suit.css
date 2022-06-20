@@ -40,9 +40,9 @@
 	font-weight:600;
 	src: url(./600/SUIT-SemiBold.eot);
 	src: url(./600/SUIT-SemiBold.eot?#iefix) format('embedded-opentype'),
-		url(./700/SUIT-SemiBold.woff2) format("woff2"),
-		url(./700/SUIT-SemiBold.woff) format("woff"),
-		url(./700/SUIT-SemiBold.otf) format("opentype");
+		url(./600/SUIT-SemiBold.woff2) format("woff2"),
+		url(./600/SUIT-SemiBold.woff) format("woff"),
+		url(./600/SUIT-SemiBold.otf) format("opentype");
 	font-display:swap;
 }
 @font-face {
@@ -60,10 +60,10 @@
 	font-family:"SUIT";
 	font-style:normal;
 	font-weight:900;
-	src: url(./700/SUIT-ExtraBold.eot);
-	src: url(./700/SUIT-ExtraBold.eot?#iefix) format('embedded-opentype'),
-		url(./700/SUIT-ExtraBold.woff2) format("woff2"),
-		url(./700/SUIT-ExtraBold.woff) format("woff"),
-		url(./700/SUIT-ExtraBold.otf) format("opentype");
+	src: url(./900/SUIT-ExtraBold.eot);
+	src: url(./900/SUIT-ExtraBold.eot?#iefix) format('embedded-opentype'),
+		url(./900/SUIT-ExtraBold.woff2) format("woff2"),
+		url(./900/SUIT-ExtraBold.woff) format("woff"),
+		url(./900/SUIT-ExtraBold.otf) format("opentype");
 	font-display:swap;
 }
