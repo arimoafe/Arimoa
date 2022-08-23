@@ -9,8 +9,8 @@
 	font-display:swap;
 	src:	local("Gmarket Sans Bold"),
 			local("GmarketSans-Bold"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansBold.woff2") format("woff2"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansBold.woff") format("woff");
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansBold.woff2") format("woff2"),
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansBold.woff") format("woff");
 }
 @font-face {
 	font-family:"Gmarket Sans";
@@ -19,8 +19,8 @@
 	font-display:swap;
 	src:	local("Gmarket Sans Medium"),
 			local("GmarketSans-Medium"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansMedium.woff2") format("woff2"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansMedium.woff") format("woff");
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansMedium.woff2") format("woff2"),
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansMedium.woff") format("woff");
 }
 @font-face {
 	font-family:"Gmarket Sans";
@@ -29,6 +29,6 @@
 	font-display:swap;
 	src:	local("Gmarket Sans Light"),
 			local("GmarketSans-Light"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansLight.woff2") format("woff2"),
-			url("https://raw.githubusercontent.com/arimoafe/Arimoa/main/webFonts/Gmarket_Sans/GmarketSansLight.woff") format("woff");
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansLight.woff2") format("woff2"),
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/GmarketSansLight.woff") format("woff");
 }
