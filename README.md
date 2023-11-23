@@ -12,3 +12,9 @@ https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/Gmarket_Sans/gmarketSans.cs
 
 * SUIT
 https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/SUIT/suit.css
+
+* OneMobile
+https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/OneMobile/OneMobile.css
+
+* ONE-Mobile-Title
+https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/ONE-Mobile-Title/ONE-Mobile-Title.css

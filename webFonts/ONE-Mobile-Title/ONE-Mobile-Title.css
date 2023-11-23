@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* -------- ONE-Mobile-Title -------- */
+/* -- font-family:"ONE-Mobile-Title", sans-serif;					500 -- */
+@font-face {
+	font-family:"ONE-Mobile-Title";
+	font-style:normal;
+	font-weight:500;
+	font-display:swap;
+	src:	local("ONE-Mobile-Title"),
+			local("OneMobileTitle"),
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/ONE-Mobile-Title/ONE-Mobile-Title.woff2") format("woff2"),
+			url("https://cdn.jsdelivr.net/gh/arimoafe/Arimoa/webFonts/ONE-Mobile-Title/ONE-Mobile-Title.woff") format("woff");
+}
